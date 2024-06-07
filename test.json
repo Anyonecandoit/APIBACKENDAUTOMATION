@@ -1,0 +1,16 @@
+{
+"id": "16",
+"first_name": "Jaohn",
+"last_name": "Daoe",
+"email": "joaaaahn.doe@example.com",
+"jobs": ["tester","trainer"],
+
+"favfoods": 
+{
+	
+	"breakfast": "idly",
+	"lunch" : "rice",
+	"dinner": ["chapathi", "rice"]
+
+}
+}
